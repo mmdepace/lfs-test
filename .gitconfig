@@ -1,5 +1,5 @@
 [lfs]
-    url = "http://john@localhost:8080/john/wence"
+    url = "http://localhost:8080/john/wence"
 
 [http]
     sslverify = false
