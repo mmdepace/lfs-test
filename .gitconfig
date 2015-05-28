@@ -1,5 +1,8 @@
 [lfs]
-    url = "https://ted:bob@localhost:9999/ted/wence"
+    url = "https://localhost:9999/ted/wence"
 
 [http]
     sslverify = false
+
+[credential "https://localhost"]
+	username = ted
