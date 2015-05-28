@@ -3,6 +3,3 @@
 
 [http]
     sslverify = false
-
-[credential "https://localhost"]
-	username = ted
