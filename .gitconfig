@@ -1,5 +1,5 @@
 [lfs]
-    url = "http://localhost:8080/john/wence"
+    url = "https://orcan.stanford.edu:8080/atac/atac"
 
 [http]
     sslverify = false
